@@ -1,5 +1,12 @@
 # PDD_27_hw
 Python: Django Site optimization
+## update 2022.06.10
+
+![img_14.png](img_14.png)
+
+![img_12.png](img_12.png)
+
+![img_13.png](img_13.png)
 
 ## update 2022.06.09
 Added Paginator for the function ‘history’ and page ‘history.html’.
